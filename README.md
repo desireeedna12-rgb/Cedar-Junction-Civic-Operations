@@ -46,3 +46,29 @@ This repository organizes my CIT 140 coursework by week. The repository URL is s
 
 **Course:** CIT 140  
 **Case:** Cedar Junction Civic Operations
+
+## Week 6 — Where Should the Work Go?
+
+Week 6 builds on the process modeling from Week 5 by examining how inspection reports are received, validated, and routed to the correct department.
+
+**Main work completed:**
+- Created a structured model showing the system boundary, processes, external entities, data stores, and information flows.
+- Mapped the four main processes: Receive Report, Check Required Fields, Resolve Destination, and Send Work Item.
+- Defined the eight required inspection report fields and their accepted formats.
+- Documented the approved routing rules for STREETLIGHT, DRAIN, and BRIDGE reports.
+- Reviewed the delivery log and identified three BRIDGE reports (CJ-803, CJ-804, and CJ-807) that were sent to Electrical instead of Structures.
+- Documented the evidence, unanswered questions, and limits of what could be concluded from the available records.
+
+**Files and locations:**
+- `Week06/Artifact/` — Structured model, data flow diagram, and exported PDF.
+- `Week06/Receipt/` — Week 6 Mission Receipt PDF.
+- `Week06/README.md` — Week 6 folder guide, if included.
+
+## What I Learned
+Week 5 helped me understand how work moves between people and departments through a process. Week 6 helped me understand how information moves through a system, how required fields are validated, and how routing rules determine where work should go. Reviewing the delivery log also showed me why it is important to compare actual results with approved rules and document discrepancies without assuming a cause that the evidence does not prove.
+
+## Submission
+This repository organizes my CIT 140 coursework by week. The repository URL is submitted through Canvas as instructed.
+
+**Course:** CIT 140  
+**Case:** Cedar Junction Civic Operations
